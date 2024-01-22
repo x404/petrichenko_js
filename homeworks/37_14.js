@@ -1,4 +1,4 @@
-// #studies
+// #studies
 // Arrays
 // Students groups
 
