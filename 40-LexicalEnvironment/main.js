@@ -1,7 +1,7 @@
 let value = 2; debugger;
 
 function showValue() {debugger;
- console.log("Value from showValue: " + value); debugger; // 3
+ console.log("Value from showValue: " + value); debugger; // 2
 }
 
 function wrapper() {
